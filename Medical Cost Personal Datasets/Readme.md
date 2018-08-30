@@ -9,7 +9,6 @@ bmi: Body mass index, providing an understanding of body, weights that are relat
 children: Number of children covered by health insurance / Number of dependents
 smoker: Smoking
 region: the beneficiary's residential area in the US, northeast, southeast, southwest, northwest.
-
 charges: Individual medical costs billed by health insurance
 
 ## Medical cost personal data
@@ -29,7 +28,7 @@ Model building
 Model evaluation
 Model Validation
 Summary
-![Insurance chage/age &/BMI](#sc.png)
+![Insurance chage/age &/BMI](sc.png)
 ## Public Kernel
 * [Kiva Welfare Loan](https://www.kaggle.com/sudhirnl7/linear-regrssion-tutorial)
 

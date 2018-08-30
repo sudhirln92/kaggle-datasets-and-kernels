@@ -9,10 +9,10 @@ In this challenge, the ultimate goal is to obtain as precise informations as pos
 
 As for Kiva's data, here's what we've got :
 
-    kiva_loans : That's the dataset that contains most of the informations about the loans (id of borrower, amount of loan, time of repayment, reason for borrowing ...)
-    kiva_mpi_region_locations : This dataset contains the MPI of many regions (subnational) in the world.
-    loan_theme_ids : This dataset has the same unique_id as the kiva_loans (id of loan) and contains information about the theme of the loan.
-    loan_themes_by_region : This dataset contains specific informations about geolocation of the loans.
+kiva_loans : That's the dataset that contains most of the informations about the loans (id of borrower, amount of loan, time of repayment, reason for borrowing ...)
+kiva_mpi_region_locations : This dataset contains the MPI of many regions (subnational) in the world.
+loan_theme_ids : This dataset has the same unique_id as the kiva_loans (id of loan) and contains information about the theme of the loan.
+loan_themes_by_region : This dataset contains specific informations about geolocation of the loans.
 
 
 ## Public Kernel
