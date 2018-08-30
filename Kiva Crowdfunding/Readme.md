@@ -6,6 +6,7 @@ Kiva is a non-profit organization that allows anyone to lend money to people in 
 
 ## Data set Description
 In this challenge, the ultimate goal is to obtain as precise informations as possible about the poverty level of each borrower / region because that would help setting investment priorities. Kagglers are invited to use Kiva's data as well as any external public datasets to build their poverty estimation model.
+
 As for Kiva's data, here's what we've got :
 
     kiva_loans : That's the dataset that contains most of the informations about the loans (id of borrower, amount of loan, time of repayment, reason for borrowing ...)
@@ -14,10 +15,9 @@ As for Kiva's data, here's what we've got :
     loan_themes_by_region : This dataset contains specific informations about geolocation of the loans.
 
 
-
 ## Public Kernel
 * [Kiva Welfare Loan](https://www.kaggle.com/sudhirnl7/kiva-welfare-loan/notebook)
 
 ## Out come of project:
 This project give good opportunity to explore data set.
-[Loan amount usage in diffirent sector](joy.png)
+![Loan amount usage in diffirent sector](joy.png)
