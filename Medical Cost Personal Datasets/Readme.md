@@ -30,7 +30,7 @@ Model Validation
 Summary
 ![Insurance chage/age &/BMI](sc.png)
 ## Public Kernel
-* [Kiva Welfare Loan](https://www.kaggle.com/sudhirnl7/linear-regrssion-tutorial)
+* [Linear Regression Tutorial](https://www.kaggle.com/sudhirnl7/linear-regression-tutorial)
 
 ## Out come of project:
 This project give good opportunity to explore data set.

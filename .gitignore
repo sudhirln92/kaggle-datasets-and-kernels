@@ -1,0 +1,7 @@
+*.pyc
+*checkpoint.ipynb
+*.Rhistory
+.env
+.ipynb_checkpoints
+__pycache__
+
