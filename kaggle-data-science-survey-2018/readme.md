@@ -2,6 +2,12 @@
 Explore the 2018 Kaggle ML & Data Science Survey
 [Link](https://www.kaggle.com/kaggle/kaggle-survey-2018/home) 
 
+| Project Name | Type  | Public Kernel |
+| ------ | ------ | ------ | 
+| [2018 Kaggle ML & DS Survey Challenge](https://www.kaggle.com/kaggle/kaggle-survey-2018) | Survery analysis | [Data Science Survey - 2018](https://www.kaggle.com/sudhirnl7/data-science-survey-2018) |
+
+![Programming Language](wc.png)
+
 Kaggle is the world's largest community of data scientists and machine learners, owned by Google, Inc. Kaggle got its start by offering machine learning competitions and now also offers a public data platform, a cloud-based workbench for data science, and short form AI education.
 
 ## Data set Description
@@ -13,9 +19,9 @@ There's a lot to explore here. The results include raw numbers about who is work
 
 ## Public Kernel
 * [Data Science Survey - 2018](https://www.kaggle.com/sudhirnl7/data-science-survey-2018)
-![Programming Language](wc.png)
+
 
 [nbviewer](https://nbviewer.jupyter.org/)
 
 ## Out come of project:
-This project give good opportunity to explore data set.
+This project gives a good opportunity to explore the data set.
