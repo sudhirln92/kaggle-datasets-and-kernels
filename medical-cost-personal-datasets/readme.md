@@ -1,14 +1,11 @@
 # Medical Cost Personal Datasets
-Insurance Forecast by using Linear Regression [Link](https://www.kaggle.com/mirichoi0218/insurance)
+Insurance Forecast using Linear Regression
  
-| Project Name | Type  | Public Kernel |
-| ------ | ------ | ------ | 
-| [Medical Cost Personal Datasets](https://www.kaggle.com/mirichoi0218/insurance) | Regression,Tutorial | [Linear Regression Tutorial](https://www.kaggle.com/sudhirnl7/linear-regression-tutorial) |
+| Project Name | Type  | Public Kernel | Date |
+| ------ | ------ | ------ | ------ | 
+| [Medical Cost Personal Datasets](https://www.kaggle.com/mirichoi0218/insurance) | Regression,Tutorial | [Linear Regression Tutorial](https://www.kaggle.com/sudhirnl7/linear-regression-tutorial) | Feb-2018 |
 
 ![Insurance chage/age &/BMI](sc.png)
-## Public Kernel
-* [Linear Regression Tutorial](https://www.kaggle.com/sudhirnl7/linear-regression-tutorial)
-
 
 ## Data set Description
 Columns - age: age of primary beneficiary

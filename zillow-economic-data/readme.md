@@ -1,9 +1,9 @@
 # Zillow Economics Data
 Turning on the lights in housing research.
 
-| Project Name | Type  | Public Kernel |
-| ------ | ------ | ------ | 
-| [Zillow Economics Data](https://www.kaggle.com/zillow/zecon) | Time Series,House Price| [Real Estate Price EDA & ARIMA Model](https://www.kaggle.com/sudhirnl7/real-estate-price-eda-arima-model) |
+| Project Name | Type  | Public Kernel | Date |
+| ------ | ------ | ------ | ------ | 
+| [Zillow Economics Data](https://www.kaggle.com/zillow/zecon) | Time Series,House Price| [Real Estate Price EDA & ARIMA Model](https://www.kaggle.com/sudhirnl7/real-estate-price-eda-arima-model) | Jan-2018|
 
 Zillow's Economic Research Team collects, cleans and publishes housing and economic data from a variety of public and proprietary sources. Public property record data filed with local municipalities -- including deeds, property facts, parcel information and transactional histories -- forms the backbone of our data products, and is fleshed out with proprietary data derived from property listings and user behavior on Zillow.
 
