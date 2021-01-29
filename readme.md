@@ -14,3 +14,5 @@ Various exploratory data anaysis of dataset in kaggle.
 | [Wine Reviews](https://www.kaggle.com/zynicide/wine-reviews) | Customer Review | [Wine recommender](https://www.kaggle.com/sudhirnl7/wine-recommender) | Nov-2018 |
 | [Yelp dataset](https://www.kaggle.com/yelp-dataset/yelp-dataset/) | Business Review| [Basic exploration of Business Review at Yelp.com](https://www.kaggle.com/sudhirnl7/basic-exploration-of-business-review-at-yelp-com) | Feb-2018 |
 | [Zillow Economics Data](https://www.kaggle.com/zillow/zecon) | Time Series,House Price| [Real Estate Price EDA & ARIMA Model](https://www.kaggle.com/sudhirnl7/real-estate-price-eda-arima-model) | Jan-2018 |
+| [Fuel Price In India](https://www.kaggle.com/sudhirnl7/fuel-price-in-india) | Time Series Data | NA | Jan-2021 |
+
